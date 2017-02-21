@@ -20,3 +20,4 @@ drwxr-xr-x  2 mohamad.iqbal51 StafCS 4096 Feb 21 19:46 week09
 drwxr-xr-x  2 mohamad.iqbal51 StafCS 4096 Feb 21 19:46 week10
 drwxr-xr-x  2 mohamad.iqbal51 StafCS 4096 Feb 21 19:46 xtra
 /home/fasilkom/mahasiswa/m/mohamad.iqbal51/os171/week01
+Today is 21 Feb 2017 at 21:12:55

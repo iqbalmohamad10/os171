@@ -1,0 +1,5 @@
+#Mohamad_Iqbal
+Week00 Short Description Task
+1. Creating GitHub account
+2. Creating Repository on that GitHub account
+3. Registering personal account and GitHub account on Operation System 2017 registration form

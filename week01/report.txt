@@ -1,0 +1,7 @@
+#Mohamad_Iqbal
+Week01 Short Description of Task
+1. Clone repository on GitHub account to local repository on badak server
+2. Creating folders and empty files on each of those folder
+3. Using Push and Pull GitHub on badak server terminal
+4. Creating and editing  report and other text file needed by this task using vi editor
+5. Trying simple scripting in linux to get timestamp
